@@ -4,8 +4,10 @@
 
 NaturIA é um aplicativo desenvolvido em **React Native** com o objetivo de permitir a identificação de plantas, animais e fungos.  
 
-
 Para facilitar o acesso, o app foi publicado como **web app**, permitindo que qualquer pessoa abra e use pelo navegador sem precisar instalar nada.
+
+Deploy Web (Acesse pelo Navegador):
+https://harmonious-entremet-a224c3.netlify.app
 
 ---
 
@@ -31,8 +33,4 @@ Para facilitar o acesso, o app foi publicado como **web app**, permitindo que qu
    - Layout simples e otimizado para dispositivos móveis.  
 
 ---
-
-Deploy Web (Acesse pelo Navegador):
-https://harmonious-entremet-a224c3.netlify.app
-
 Funciona como um Progressive Web App (PWA), simulando a experiência de app nativo.
