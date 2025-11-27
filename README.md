@@ -32,22 +32,7 @@ Para facilitar o acesso, o app foi publicado como **web app**, permitindo que qu
 
 ---
 
-## Como Rodar Localmente (Opcional)
-
-> Para testar o app antes do deploy.
-
-1. Instale dependências:
-
-bash-
-npm install
-Inicie o app no Expo Go:
-
-bash-
-Copiar código
-npx expo start
-Escaneie o QR code no Expo Go (Android/iOS) para abrir o app no celular.
-
-Deploy Web (Acesso pelo Navegador)
+Deploy Web (Acesse pelo Navegador):
 https://harmonious-entremet-a224c3.netlify.app
 
 Funciona como um Progressive Web App (PWA), simulando a experiência de app nativo.
