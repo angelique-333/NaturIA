@@ -2,8 +2,8 @@
 
 ## Descrição do Projeto
 
-Naturia é um aplicativo desenvolvido em **React Native** com o objetivo de permitir a identificação de plantas, animais e fungos.  
-O app foi criado como parte de um trabalho da faculdade, com funcionalidades de captura de imagens, identificação de espécies e visualização de alertas em mapas.
+NaturIA é um aplicativo desenvolvido em **React Native** com o objetivo de permitir a identificação de plantas, animais e fungos.  
+
 
 Para facilitar o acesso, o app foi publicado como **web app**, permitindo que qualquer pessoa abra e use pelo navegador sem precisar instalar nada.
 
