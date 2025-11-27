@@ -32,22 +32,6 @@ Para facilitar o acesso, o app foi publicado como **web app**, permitindo que qu
 
 ---
 
-## Estrutura do Projeto
-
-NaturIA/
-├─ App.js # Arquivo principal do app
-├─ package.json # Dependências do projeto
-├─ app.json # Configurações do Expo
-├─ assets/ # Imagens e ícones do app
-├─ node_modules/ # Dependências instaladas
-├─ dist/ # Build web gerado pelo Expo
-└─ README.md # Este arquivo
-
-yaml
-Copiar código
-
----
-
 ## Como Rodar Localmente (Opcional)
 
 > Para testar o app antes do deploy.
