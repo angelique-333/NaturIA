@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Naturia",
+    "slug": "naturia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2d7a3e"
+    },
+    "updates": {
+      "enabled": false
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "O Naturia precisa acessar a câmera para tirar fotos de plantas, animais e fungos.",
+        "NSPhotoLibraryUsageDescription": "O Naturia precisa acessar suas fotos para identificar espécies."
+      }
+    },
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.naturia.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bceae0a5-e236-45d0-8bcc-bd381a920d71"
+      }
+    }
+  }
+}
