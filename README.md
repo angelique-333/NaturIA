@@ -74,9 +74,4 @@ Caso queira rodar o código-fonte em sua máquina:
 ![mapa](https://github.com/user-attachments/assets/28544bbf-648c-4034-9e09-0d2a75d1c085)
 
 
-## 9. Autores
-* Nome do Integrante 1
-* Nome do Integrante 2
-* Nome do Integrante 3
-* Nome do Integrante 4
-* Nome do Integrante 5
+
