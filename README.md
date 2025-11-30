@@ -67,9 +67,12 @@ Caso queira rodar o código-fonte em sua máquina:
 ## 8. Evidências do Projeto
 *(As capturas de tela estão disponíveis na pasta `/screenshots` deste repositório)*
 
-![Tela Inicial](screenshots/home.png)
-![Identificação](screenshots/id.png)
-![Mapa](screenshots/mapa.png)
+![home](https://github.com/user-attachments/assets/7b48519b-802b-4299-94ba-16cdb9e1f6dc)
+
+![id](https://github.com/user-attachments/assets/980a23ae-dc7b-436d-8e27-cb60a92778a9)
+
+![mapa](https://github.com/user-attachments/assets/28544bbf-648c-4034-9e09-0d2a75d1c085)
+
 
 ## 9. Autores
 * Nome do Integrante 1
