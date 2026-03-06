@@ -1,77 +1,75 @@
-# Naturia – App de Identificação de Espécies
+# Naturia – Species Identification App
 
-> Projeto desenvolvido para a disciplina de Programação para Dispositivos Móveis.
+Naturia is a mobile application that helps users identify animals, plants, and fungi through image recognition while promoting environmental awareness and biodiversity observation. The app also provides information about environmental risk areas through an interactive interface.
 
-## 1. Descrição do Problema
-Atualmente, há uma desconexão crescente entre a sociedade e a biodiversidade local. Muitas pessoas encontram plantas, animais ou fungos e não possuem conhecimento ou ferramentas acessíveis para identificá-los rapidamente. Além disso, a falta de informação sobre áreas de risco ambiental dificulta a preservação e a segurança da comunidade.
+## Tech Stack
 
-## 2. Justificativa e ODS
-Este projeto está vinculado ao **ODS 15 - Vida Terrestre** (Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres).
+React Native | JavaScript | Expo | Netlify | Progressive Web App (PWA)
 
-**Meta 15.5:** Tomar medidas urgentes e significativas para reduzir a degradação de habitats naturais e estancar a perda de biodiversidade.
+## Problem
 
-O *Naturia* justifica-se ao utilizar a tecnologia para democratizar o conhecimento botânico e zoológico. Ao facilitar a identificação de espécies e alertar sobre áreas de risco, o app engaja o cidadão comum na observação e preservação da natureza, promovendo a educação ambiental de forma prática e interativa.
+There is a growing disconnection between society and local biodiversity. Many people encounter plants, animals, or fungi but do not have the knowledge or accessible tools to identify them quickly. Additionally, the lack of information about environmental risk areas makes ecosystem preservation and community safety more difficult.
 
-## 3. Público-Alvo
-* Estudantes e pesquisadores de biologia/meio ambiente.
-* Trilheiros e turistas de natureza.
-* Cidadãos interessados em biodiversidade local.
+## Sustainable Development Goal
 
-## 4. Objetivos do App
-* **Geral:** Facilitar o reconhecimento da biodiversidade e promover a segurança ambiental através de dispositivos móveis.
-* **Específicos:**
-    * Permitir a captura e identificação simulada de espécies (fauna, flora e funga).
-    * Fornecer visualização de áreas de risco em mapas interativos.
-    * Oferecer uma interface acessível via Web (PWA) e Mobile.
+This project is aligned with **SDG 15 – Life on Land**, which focuses on protecting, restoring, and promoting the sustainable use of terrestrial ecosystems.
 
-## 5. Tecnologias e Tipo de Aplicação
-[cite_start]O projeto foi desenvolvido como uma aplicação **Híbrida / PWA (Progressive Web App)**[cite: 81], permitindo execução tanto no navegador quanto em dispositivos móveis.
+**Target 15.5:** Take urgent and significant action to reduce the degradation of natural habitats and halt biodiversity loss.
 
-* **Framework:** React Native (com Expo).
-* **Linguagem:** JavaScript.
-* **Hospedagem Web:** Netlify.
-* **Ferramentas:** Expo Go para testes.
+Naturia uses technology to democratize botanical and zoological knowledge. By facilitating species identification and providing alerts about environmental risk areas, the app encourages citizens to observe and preserve nature while promoting practical environmental education.
 
-## 6. Funcionalidades
-1.  **Identificação de Espécies:** Captura de fotos de plantas, animais ou fungos com identificação simulada.
-2.  **Alertas em Mapa:** Exibição de alertas de áreas de risco em mapas interativos.
-3.  **Interface Responsiva:** Layout otimizado para uso em smartphones e desktops.
+## Target Audience
 
-## 7. Instruções de Instalação e Uso
+• Biology and environmental science students and researchers  
+• Hikers and nature tourists  
+• People interested in local biodiversity  
 
-### Acesso Rápido (Versão Web)
-Você pode utilizar o aplicativo diretamente pelo navegador sem necessidade de instalação:
-🔗 **[Acesse o Naturia no Netlify](https://harmonious-entremet-a224c3.netlify.app)**
+## Features
 
-### Execução Local (Para desenvolvedores)
-Caso queira rodar o código-fonte em sua máquina:
+• Species identification through image capture (animals, plants, fungi)  
+• Environmental risk alerts displayed on interactive maps  
+• Responsive interface optimized for mobile and web  
+• Progressive Web App support  
 
-**Requisitos do Sistema:**
-* Node.js (versão 14 ou superior)
-* NPM ou Yarn
-* Dispositivo móvel com app *Expo Go* instalado (opcional)
+## Installation
 
-**Passo a passo:**
-1.  Clone este repositório.
-2.  Abra o terminal na pasta do projeto.
-3.  Instale as dependências:
-    ```bash
-    npm install
-    ```
-4.  Inicie o projeto:
-    ```bash
-    npx expo start
-    ```
-5.  Escaneie o QR Code com o app Expo Go (Android/iOS) ou pressione `w` para abrir no navegador.
+### Quick Access (Web Version)
 
-## 8. Evidências do Projeto
-*(As capturas de tela estão disponíveis na pasta `/screenshots` deste repositório)*
+The application can be accessed directly through the browser without installation.
 
-![home](https://github.com/user-attachments/assets/7b48519b-802b-4299-94ba-16cdb9e1f6dc)
+Access Naturia on Netlify
 
-![id](https://github.com/user-attachments/assets/980a23ae-dc7b-436d-8e27-cb60a92778a9)
+### Local Execution (For Developers)
 
-![mapa](https://github.com/user-attachments/assets/28544bbf-648c-4034-9e09-0d2a75d1c085)
+System Requirements:
 
+Node.js (version 14 or higher)  
+NPM or Yarn  
+Mobile device with Expo Go installed (optional)
 
+Steps:
 
+Clone the repository
+
+git clone https://github.com/yvejessica/naturia
+
+Open the project folder
+
+cd naturia
+
+Install dependencies
+
+npm install
+
+Start the project
+
+npx expo start
+
+Scan the QR Code using the Expo Go app (Android/iOS) or press **w** to open the project in the browser.
+
+## Author
+
+Jessica Yve  
+Front-End Developer  
+
+GitHub: https://github.com/yvejessica
